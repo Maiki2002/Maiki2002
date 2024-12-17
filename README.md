@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Miguel 💻
 
+I'm a computer enginnering student. 
+Thank You for taking the time to view my Github profile.
 <!--
 **Maiki2002/Maiki2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
